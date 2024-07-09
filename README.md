@@ -1,1 +1,1 @@
-Login Pages using HTML, CSS, JAVAscript
+Animation Pages using HTML, CSS, JAVAscript
